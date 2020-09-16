@@ -1,0 +1,47 @@
+body{
+	font-family:"Source Sans Pro",sans-serif;
+	background: #F7971E;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #FFD200, #F7971E);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #FFD200, #F7971E); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+#mainNavbar .navbar-brand{
+	font-weight:700;
+	font-size:1.2rem;
+	color:black;
+}
+#mainNavbar .nav-link{
+	font-weight:700;
+	font-size:1.2rem;
+	color:black;
+}
+#mainNavbar .nav-link:hover{
+	
+	color:#563089;
+}
+h3{
+	font-weight:900;
+	font-style:italic;
+}
+.card h4{
+	border: 1px solid transparent;
+	background-color: blue;
+	font-weight:400;
+	font-size:1.5rem;
+	text-align: center;
+	
+}
+.card-title{
+	font-weight:900;
+	font-style:italic;
+	font-size:1.8rem;
+}
+.card .card-text{
+	font-weight: 900;
+	
+}
+#gallery .card .card-body{
+	background-color: #ffd200;
+}
+#gallery .card .card-img-top:hover{
+    background-color:#F7971E;
+}

@@ -1,0 +1,11 @@
+p{
+	font-size: 30px;
+
+}
+h1{
+	text-align: center;
+	text-transform: uppercase;
+	padding:20px;
+	border: 1px solid transparent;
+	background-color: navy blue;
+}

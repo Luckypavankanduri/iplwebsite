@@ -1,0 +1,44 @@
+body{
+    
+    font-family:"Source Sans Pro",sans-serif;
+}
+#mainNavbar .navbar-brand{
+	font-weight:700;
+	font-size:1.2rem;
+	color:white;
+}
+#mainNavbar .nav-link{
+	font-weight:700;
+	font-size:1.2rem;
+	color:red;
+}
+#mainNavbar .nav-link:hover{
+	
+	color: blue;
+}
+.display-4{
+    font-style: italic;
+    color:white;
+    font-weight:700;
+    font-size:24px;
+    padding-top:15px;
+    padding-left:15px;
+}
+.jumbotron{
+    background-color: blue;
+    padding-top:5px;
+    padding-bottom:3px;
+    margin-top:25px;
+}
+.card1{
+    background-color:yellow;
+}
+.card-title{
+	font-weight:900;
+	font-style:italic;
+	font-size:1.8rem;
+}
+.card .card-text{
+	font-weight: 400;
+	
+}

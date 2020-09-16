@@ -1,0 +1,46 @@
+body{
+	font-family:"Source Sans Pro",sans-serif;
+	background: #24C6DC;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #514A9D, #24C6DC);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #514A9D, #24C6DC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+#mainNavbar .navbar-brand{
+	font-weight:700;
+	font-size:1.2rem;
+	color:white;
+}
+#mainNavbar .nav-link{
+	font-weight:700;
+	font-size:1.2rem;
+	color:white;
+}
+#mainNavbar .nav-link:hover{
+	
+	color: royalblue;
+}
+.header{
+    
+  padding-top:5px;
+  padding-bottom:3px;
+  margin-top:25px;
+  color:white;
+  font-style:italic;
+}
+.match .teams{
+  font-size: 24px;
+  color:whitesmoke;
+  line-height: 1;
+  margin-left: 20px;
+  font-family: "SourceSansPro-SemiBold",sans-serif;
+  font-weight: 600;
+}
+.match .date{
+  font-size:18px;
+  color:black;
+}
+.match .venue{
+  font-size:18px;
+  color:black;
+  text-transform: uppercase;
+}
